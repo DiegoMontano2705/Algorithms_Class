@@ -64,6 +64,7 @@ int main() {
     v.push_back(value);
   }
 
+
   MergeSort(v,0,5);
   cout << contComp << endl;
   return 0;
