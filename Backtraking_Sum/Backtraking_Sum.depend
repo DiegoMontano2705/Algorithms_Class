@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555946891 source:c:\users\yeyog\desktop\trabajos tec\itc\4-. semestre\análisis y desarollo de algortimos\backtraking_sum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
